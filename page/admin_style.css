@@ -1,0 +1,29 @@
+#wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-heading {
+  margin-bottom: 20px;
+}
+.form-login {
+  border: 1px solid black;
+  padding: 50px 48px 80px;
+  border-radius: 7px;
+}
+.form-group {
+  margin-bottom: 20px;
+  width: 350px;
+}
+#submit-succes {
+  width: 350px;
+}
+.btn-google {
+  margin-top: 20px;
+  background-color: #fff;
+  width: 350px;
+  border: 1px solid #d4d1d3;
+  height: 40px;
+  border-radius: 6px;
+}
